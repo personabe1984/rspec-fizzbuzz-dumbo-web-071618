@@ -9,3 +9,6 @@ def fizzbuzz(num)
     nil
   end
 end
+
+
+puts FizzBuzz(15)
